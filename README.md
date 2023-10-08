@@ -1,0 +1,1 @@
+This project is a basic rescipe website. I will be using only basic html elements mainly links, headers, and divs. The main feature will be being able to switch between pages to view images.
